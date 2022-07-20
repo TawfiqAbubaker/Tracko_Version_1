@@ -9,7 +9,7 @@ export const Nav = () => {
             <div className="lg:px-12 relative flex items-center justify-between">
                 <div className="flex items-center">
                     <Link
-                        to="/Tracko/"
+                        to="/Tracko_Version_1/"
                         aria-label="goTrack"
                         title="goTrack"
                         className="inline-flex items-center mr-8"
@@ -22,7 +22,7 @@ export const Nav = () => {
                     <ul className="flex items-center hidden space-x-8 lg:flex">
                         <li>
                             <Link
-                                to="/Tracko/"
+                                to="/Tracko_Version_1/"
                                 aria-label="Our Service"
                                 title="Our service"
                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -32,7 +32,7 @@ export const Nav = () => {
                         </li>
                         <li>
                             <Link
-                                to="/Tracko/track"
+                                to="/Tracko_Version_1/track"
                                 aria-label="Track your workouts"
                                 title="Track your workouts"
                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -43,7 +43,7 @@ export const Nav = () => {
                         
                         <li>
                             <Link
-                                to="/Tracko/Visualize"
+                                to="/Tracko_Version_1/Visualize"
                                 aria-label="Visualize your progress"
                                 title="Visualize your progress"
                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -53,7 +53,7 @@ export const Nav = () => {
                         </li>
                         <li>
                             <Link
-                                to="/Tracko/Feedback"
+                                to="/Tracko_Version_1/Feedback"
                                 aria-label="Submit feedback"
                                 title="Send feedback"
                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -66,7 +66,7 @@ export const Nav = () => {
                 <ul className="flex items-center hidden space-x-8 lg:flex">
                     <li>
                         <Link
-                            to="/Tracko/"
+                            to="/Tracko_Version_1/"
                             aria-label="Login"
                             title="Login"
                             className="inline-flex items-center justify-center h-10 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-lightBlue hover:bg-sky-300 focus:shadow-outline focus:outline-none"
@@ -77,7 +77,7 @@ export const Nav = () => {
                     </li>
                     <li>
                         <Link
-                            to="/Tracko/"
+                            to="/Tracko_Version_1/"
                             className="inline-flex items-center justify-center h-10 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md  bg-darkBlue-100 hover:bg-darkBlue-200 focus:shadow-outline focus:outline-none"
                             aria-label="Sign up"
                             title="Sign up"
@@ -163,7 +163,7 @@ export const Nav = () => {
                                         </li>
                                         <li>
                                             <Link
-                                                to="/Tracko/track"
+                                                to="/Tracko_Version_1/track"
                                                 aria-label="Track your progress"
                                                 title="Track your progress"
                                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -174,7 +174,7 @@ export const Nav = () => {
                                         
                                         <li>
                                             <Link
-                                                to="/Tracko/Visualize"
+                                                to="/Tracko_Version_1/Visualize"
                                                 aria-label="Visualize your progress"
                                                 title="Visualize your progress"
                                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -184,7 +184,7 @@ export const Nav = () => {
                                         </li>
                                         <li>
                                             <Link
-                                                to="/Tracko/Feedback"
+                                                to="/Tracko_Version_1/Feedback"
                                                 aria-label="View your past workouts"
                                                 title="View your past workouts"
                                                 className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
@@ -194,7 +194,7 @@ export const Nav = () => {
                                         </li>
                                         <li>
                                             <Link
-                                                to="/Tracko/"
+                                                to="/Tracko_Version_1/"
                                                 aria-label="Login"
                                                 title="Sign in"
                                                 className="font-medium tracking-wide text-darkBlue-100 transition-colors duration-200 hover:text--purple-accent-400"
@@ -204,7 +204,7 @@ export const Nav = () => {
                                         </li>
                                         <li>
                                             <Link
-                                                to="/Tracko/"
+                                                to="/Tracko_Version_1/"
                                                 className="font-medium tracking-wide text-darkBlue-100 transition-colors duration-200 hover:text--purple-accent-400"
                                                 aria-label="Sign up"
                                                 title="Sign up"

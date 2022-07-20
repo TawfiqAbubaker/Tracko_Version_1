@@ -10,10 +10,10 @@ function App() {
         <Router>
             <Nav />
             <Routes>
-                <Route path="/Tracko/" element={<HomePage/>} />
-                <Route path="/Tracko/track" element={<Track />} />
-                <Route path="/Tracko/Visualize" element={<Visualize/>}/>
-                <Route path="/Tracko/Feedback" element={<Feedback/>}/>
+                <Route path="/Tracko_Version_1/" element={<HomePage/>} />
+                <Route path="/Tracko_Version_1/track" element={<Track />} />
+                <Route path="/Tracko_Version_1/Visualize" element={<Visualize/>}/>
+                <Route path="/Tracko_Version_1/Feedback" element={<Feedback/>}/>
             </Routes>
         </Router>
     );
