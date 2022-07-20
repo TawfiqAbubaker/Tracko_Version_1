@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Tracko/static/css/main.edd07995.css",
-    "main.js": "/Tracko/static/js/main.ddbbeafb.js",
-    "static/media/Calendar.png": "/Tracko/static/media/Calendar.f6bccbec536902eef6c3.png",
-    "static/media/Rocket.png": "/Tracko/static/media/Rocket.ac0d3a35cba4163b6e19.png",
-    "static/media/Hand.png": "/Tracko/static/media/Hand.965a97a203f5cccac8ba.png",
-    "static/media/homePage.svg": "/Tracko/static/media/homePage.e670512a8967a0ee3b350f3c0d5577ca.svg",
-    "index.html": "/Tracko/index.html",
-    "main.edd07995.css.map": "/Tracko/static/css/main.edd07995.css.map",
-    "main.ddbbeafb.js.map": "/Tracko/static/js/main.ddbbeafb.js.map"
+    "main.css": "/Tracko_Version_1/static/css/main.edd07995.css",
+    "main.js": "/Tracko_Version_1/static/js/main.252c6fae.js",
+    "static/media/Calendar.png": "/Tracko_Version_1/static/media/Calendar.f6bccbec536902eef6c3.png",
+    "static/media/Rocket.png": "/Tracko_Version_1/static/media/Rocket.ac0d3a35cba4163b6e19.png",
+    "static/media/Hand.png": "/Tracko_Version_1/static/media/Hand.965a97a203f5cccac8ba.png",
+    "static/media/homePage.svg": "/Tracko_Version_1/static/media/homePage.e670512a8967a0ee3b350f3c0d5577ca.svg",
+    "index.html": "/Tracko_Version_1/index.html",
+    "main.edd07995.css.map": "/Tracko_Version_1/static/css/main.edd07995.css.map",
+    "main.252c6fae.js.map": "/Tracko_Version_1/static/js/main.252c6fae.js.map"
   },
   "entrypoints": [
     "static/css/main.edd07995.css",
-    "static/js/main.ddbbeafb.js"
+    "static/js/main.252c6fae.js"
   ]
 }
